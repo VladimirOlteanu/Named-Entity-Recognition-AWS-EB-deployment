@@ -2,7 +2,6 @@
 from flask import Flask,url_for,render_template,request
 from flaskext.markdown import Markdown
 
-# NLP Pkgs
 
 import spacy
 from spacy import displacy
