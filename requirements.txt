@@ -1,0 +1,17 @@
+spacy==3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
+Flask==1.1.2
+Flask-Markdown==0.3
+gevent==21.1.2
+uritemplate==3.0.1
+urllib3==1.24.3
+Werkzeug==1.0.1
+jsonschema==2.6.0
+html5lib==1.0.1
+httpimport==0.5.18
+httplib2==0.17.4
+httplib2shim==0.0.3
+Click==7.1.1
+MarkupSafe==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.10.1
